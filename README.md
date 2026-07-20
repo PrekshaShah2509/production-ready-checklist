@@ -471,3 +471,7 @@ Found something missing? Have improvements?
 ## License
 
 MIT License - Feel free to use and modify for your team
+
+---
+
+Maintained by Preksha Shah, Head of Engineering. More engineering work and writing at [preksha-shah.vercel.app](https://preksha-shah.vercel.app) and on [LinkedIn](https://www.linkedin.com/in/preksha-shah-065552183/).
