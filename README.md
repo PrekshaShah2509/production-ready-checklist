@@ -461,6 +461,23 @@ A comprehensive guide to ensure your application is production-ready before depl
 4. **Process Improvement:** Update based on lessons learned
 5. **Automation:** Automate checks where possible (linting, testing, security scanning)
 
+## Want the Complete Launch-Readiness System?
+
+This free checklist covers the core production-readiness checks. If you want to turn those checks into a repeatable release process, the **Production Launch Readiness Kit** gives you the structure to assess, approve, and monitor every launch with confidence.
+
+The paid toolkit includes:
+
+- Readiness assessment and scoring
+- Evidence tracking for every check
+- Ownership and reviewer assignment
+- Risk management and remediation tracking
+- Release sign-off with Go, Conditional Go, and No-Go decisions
+- Post-launch verification and observation
+- Incident-readiness templates
+- A worked example project
+
+**Ready to make launch readiness a repeatable process? [Get the Production Launch Readiness Kit](https://prekshaconsult.gumroad.com/l/production-launch-readiness-kit).**
+
 ## Contributing
 
 Found something missing? Have improvements?
